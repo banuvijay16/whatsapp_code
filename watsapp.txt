@@ -1,0 +1,6 @@
+watsapp:
+
+1. can send messages
+2. can do calls
+3. can view profile
+4. can view status
