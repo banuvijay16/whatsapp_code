@@ -4,3 +4,4 @@ watsapp:
 2. can do calls
 3. can view profile
 4. can view status
+5. can view last seen
